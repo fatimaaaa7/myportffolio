@@ -202,8 +202,8 @@ document.addEventListener("DOMContentLoaded", () => {
       },
     ],
   });
-
-  /**
+/** ohhh how it feels like to be everyones favourite */
+        /**
    * Testimonial slider
    */
 
