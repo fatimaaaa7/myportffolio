@@ -1,6 +1,4 @@
-/**
- * Template Name: Myportfy
- */
+
 
 document.addEventListener("DOMContentLoaded", () => {
   "use strict";
